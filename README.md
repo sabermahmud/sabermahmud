@@ -20,13 +20,19 @@ Aspiring AI-Enabled Full-Stack Developer 🚀 | JavaScript • React • TypeScr
 
 ## 👨‍💻 About Me
 
+I'm an aspiring AI-enabled full-stack developer focused on building modern, responsive, and user-friendly web applications. I enjoy learning through hands-on practice, solving problems, and turning what I learn into real-world projects.
+
+I’m currently strengthening my JavaScript and React skills while exploring TypeScript as part of my journey toward professional full-stack development.
+
+### 🚀 Current Activities
+
 * 🌱 Currently learning **React & TypeScript**
 * 💻 Practicing **JavaScript, React, DOM, ES6, APIs & modern web development**
-* 🚀 Working toward becoming an **AI-Enabled Professional Full-Stack Developer**
-* 🧠 Learning through **hands-on practice and real-world projects**
-* 📚 I believe in **Learning by Solving**
-* 🔍 I prefer **documentation-first learning**, with MDN as a primary reference
-* 🤖 Using AI as a learning partner for **understanding, debugging, code review, and improving problem-solving skills**
+* 🚀 Building and improving **hands-on React projects**
+* 🧠 Strengthening **problem-solving and clean coding skills**
+* 📚 Following a **documentation-first, learning-by-building** approach
+* 🔍 Using **MDN documentation** as a primary learning resource
+* 🤖 Using AI as a learning partner for **understanding, debugging, code review, and problem-solving**
 
 ---
 
@@ -74,7 +80,7 @@ Aspiring AI-Enabled Full-Stack Developer 🚀 | JavaScript • React • TypeScr
 
 ---
 
-## 📖 Currently Learning
+## 📖 Learning Roadmap
 
 ```text
 JavaScript
@@ -112,6 +118,14 @@ I'm building my skills step by step with a focus on:
 ---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabermahmud&show_icons=true&locale=en" alt="Saber Mahmud GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabermahmud&show_icons=true&locale=en&layout=compact" alt="Saber Mahmud Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabermahmud" alt="Saber Mahmud GitHub Streak" />
