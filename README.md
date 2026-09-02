@@ -127,14 +127,6 @@ I'm building my skills step by step with a focus on:
 
 ---
 
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sabermahmud&theme=flat" alt="Saber Mahmud GitHub Trophies" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
