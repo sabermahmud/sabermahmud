@@ -114,14 +114,6 @@ I'm building my skills step by step with a focus on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabermahmud&show_icons=true&locale=en" alt="Saber Mahmud GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabermahmud&show_icons=true&locale=en&layout=compact" alt="Saber Mahmud Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabermahmud" alt="Saber Mahmud GitHub Streak" />
 </p>
 
@@ -133,10 +125,6 @@ I'm building my skills step by step with a focus on:
 
 <a href="https://bd.linkedin.com/in/saber-mahmud-282392244" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-
-<a href="mailto:sabermahmud01@gmail.com">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
 </a>
 
 </p>
